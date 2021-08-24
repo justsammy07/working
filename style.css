@@ -1,0 +1,50 @@
+p {
+text-align: center; 	
+color: black;
+font-size: 25px;
+font-style: oblique;
+}
+
+body{
+	background: wheat;
+
+
+	font: sans-serif ;
+}
+
+h1 {
+	text-align: center;
+	color: black;
+	font-style: oblique;
+	font-size: 45px;
+}
+
+p2 {
+	text-align:left;
+	color: black;
+	font-size: 16px;
+	font-style: serif;
+
+}
+
+img{
+	width: 50%;
+	border-radius: 0px;
+	margin-right: auto;
+	margin-left: auto;
+	display: block;
+	background: transparent;
+}
+
+.myDiv{
+	width: 50%;
+	display: inline;
+	background: transparent;
+}
+
+h3{
+	text-align: center;
+	color: black;
+	font-style: oblique;
+	font-size: 45px;
+}
